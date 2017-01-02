@@ -262,6 +262,7 @@ rhe = 10 / (Pa * s)
 liter = 1e-3 * m ** 3 = l = L = litre
 cc = centimeter ** 3 = cubic_centimeter
 stere = meter ** 3
+drop = 1 / 20 * milliliter
 
 
 @context(n=1) spectroscopy = sp
