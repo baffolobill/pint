@@ -27,6 +27,12 @@
     :alt: Docs
 
 
+Difference
+==========
+
+- Added **drop** to default unit list
+
+
 Pint: makes units easy
 ======================
 
